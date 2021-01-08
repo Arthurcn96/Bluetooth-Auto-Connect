@@ -70,7 +70,7 @@ Agora digite o código seguinte no seu editor, mas sem esquecer de substituir o 
 
   
       #! /bin/bash
-      # This program is used to auto connect a bluetooth device
+      # Programa usado para conectar automaticamente dispositivo bluetooth
 
       address="AA:BB:CC:DD:EE:FF"
 
