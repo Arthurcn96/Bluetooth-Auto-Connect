@@ -5,7 +5,7 @@ Um tutorial/script para automaticamente conectar dispositivos ao iniciar o siste
 Primeiro podemos procurar pelo o endereço bluetooth nas configurações * Configurações > Bluetooth* e quando clicar no dispositivo, aparecerá a seguinte janela:
 
 <p align="center">
-  <img width="300" src=" ">
+  <img width="300" src=" https://raw.githubusercontent.com/Arthurcn96/Bluetooth-Auto-Connect/master/data/Bluetooth.png ">
 </p>
 
 *No exemplo um teclado bluetooth*
